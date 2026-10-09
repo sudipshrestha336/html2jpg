@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# PyInstaller output
+build/
+dist/
+*.spec
+
+# Playwright browsers installed inside the project (PLAYWRIGHT_BROWSERS_PATH=0)
+.local-browsers/
+
+# Test output. Uncomment to keep generated images out of the repository,
+# but note this also hides any screenshots you add for the README.
+# *.jpg
+# *.jpeg
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
